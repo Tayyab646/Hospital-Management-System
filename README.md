@@ -8,11 +8,6 @@
 - [Installation and Setup](#installation-and-setup)
   - [Prerequisites](#prerequisites)
   - [Steps to Run](#steps-to-run)
-- [Database Schema](#database-schema)
-  - [Doctors Table](#doctors-table)
-  - [Patients Table](#patients-table)
-- [Contribution](#contribution)
-- [License](#license)
 - [Author](#author)
 
 ## Overview
