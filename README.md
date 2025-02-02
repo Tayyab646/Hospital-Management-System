@@ -40,3 +40,20 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/Hospital-Management-System.git
  ## Author 
      - M Tayyab Khalid (tayyabkhalid646@gmail.com)
+
+  # Outputs
+  ### Register page
+  ![register](https://github.com/user-attachments/assets/6b89bfee-7629-46e4-9768-b628a3b018ee)
+  ### Login Page
+  ![login](https://github.com/user-attachments/assets/d5132793-0810-433b-9d51-c53f0249fcbb)
+  ### Selection Page
+  ![selection page](https://github.com/user-attachments/assets/8d92000e-0920-42e2-94d5-d1b7db259a83)
+  ### Recommendations Page for the selected diseae
+  ![Recommendations](https://github.com/user-attachments/assets/14b0d005-e0c1-4950-8704-3efcc81b3325)
+  ### Precautions for the selected disease
+  ![precautions](https://github.com/user-attachments/assets/6cf74078-da39-4173-ae1e-c01f3b6f6868)
+
+
+
+
+
