@@ -43,3 +43,5 @@ Ensure you have the following installed:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Hospital-Management-System.git
+ ## Author 
+     - M Tayyab Khalid (tayyabkhalid646@gmail.com)
